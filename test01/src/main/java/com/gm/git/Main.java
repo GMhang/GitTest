@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Hello GitHub commit!");
         System.out.println("Hello IDEA commit!");
         System.out.println("Hello IDEA commit!  ——from Gitee");
+        System.out.println("Rename commit!");
     }
 }
